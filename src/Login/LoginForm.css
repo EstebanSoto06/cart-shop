@@ -1,0 +1,32 @@
+  .login-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+
+  .login-form form {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;;
+    background-color: #6f42c1;
+    color: #fff;
+    height: 100vh;
+  }
+
+  .login-form form h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 500;
+    font-size: 72px;
+  }
+  .google-btn{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
